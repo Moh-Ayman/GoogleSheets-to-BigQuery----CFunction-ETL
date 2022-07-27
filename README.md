@@ -14,3 +14,5 @@ Goals
     3.	Automatically Cross Check/Validate new data schema
     4.	Create BQ Datasets, Tables & Views
     5.	Look Files Auto Refresh
+
+![image](https://user-images.githubusercontent.com/26026302/181238664-2224677d-3285-4879-ba27-6e3ab11954cf.png)
